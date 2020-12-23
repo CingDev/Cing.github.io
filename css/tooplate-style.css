@@ -191,7 +191,7 @@ p {
     margin-right: auto;
 }
 
-.details__bg--down { background: #2c2a35; }
+.details__bg--down { background: #2c2a35cc; }
 
 .details__bg {
     padding: 50px;
